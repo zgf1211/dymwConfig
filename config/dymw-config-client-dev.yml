@@ -12,5 +12,5 @@ eureka:
   client:
     serviceUrl:
       defaultZone: http://localhost:8761/eureka/
-dymw: zgf12
+dymw: zgf123
 
