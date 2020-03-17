@@ -1,5 +1,5 @@
 server:
-  port: 8881
+  port: 8882
 spring:
   application:
     #和git里的文件名（application）对应
