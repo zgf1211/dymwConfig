@@ -1,6 +1,6 @@
 
 server:
-  port: 18002
+  port: 8002
 spring:
   application:
     name: summer-cloud-config-client
