@@ -5,6 +5,11 @@ spring:
   application:
     name: summer-cloud-config-client
     
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://localhost:8761/eureka/   ## 注册中心eurka地址
+    
    
 
 neo:
