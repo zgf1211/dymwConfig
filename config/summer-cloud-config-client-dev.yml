@@ -1,0 +1,8 @@
+neo
+    hello: hello im dev update2  github
+    
+server:
+  port: 8002
+spring:
+  application:
+    name: summer-cloud-config-client
